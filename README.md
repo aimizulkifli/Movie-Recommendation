@@ -1,2 +1,4 @@
 # Movie-Recommendation
 Machine Learning: Movie recommendation using SVD, SVD++, NMF, HybridSVD and ExtendedSVD
+
+This study focuses on enhancing the accuracy of movie recommendations through a technique called collaborative filtering. Specifically, we integrate side information about movies, such as genres, credits, and keywords, into a method known as Singular Value Decomposition (SVD). This integration allows us to make more accurate predictions about missing movie ratings, providing a better understanding of each movie’s unique features. We aim to increase the overall accuracy of our movie recommendation system. Through thorough experiments and analysis, we compare our approach to established methods like original SVD, SVD++, and NMF, without side information. This allows us to better understand the recommendation algorithms and highlights the significant potential of our enhancement.
